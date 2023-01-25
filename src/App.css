@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:;
+}
+
+html {
+  background: url(assets/image.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /* filter: blur(8px);
+  -webkit-filter: blur(8px); */
+}
+
+#welcome {
+  background-color:darkslategray;
+  border-radius: 25px;
+  padding: 25px;
+}
+
+#intro {
+  color: darkslategray;
+  padding: 25px;
+}
+
+#search {
+  background-color: lightgray;
+  padding: 15px;
+}
+
+.search-filter {
+  background-color: white;
+}
